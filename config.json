@@ -1,0 +1,13 @@
+{
+    "name": "Màn hình OLED I2C",
+    "description": "Thư viện cho màn hình LCD OLED I2C",
+    "libs": [
+    ],
+    "blocks": [
+        "definition.js"
+    ],
+    "toolbox": "toolbox.xml",
+    "languages": {
+    },
+    "poster": "poster.jpg"
+}
