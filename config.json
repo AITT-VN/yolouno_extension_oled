@@ -2,6 +2,7 @@
     "name": "Màn hình OLED I2C",
     "description": "Thư viện cho màn hình LCD OLED I2C",
     "libs": [
+        "ssd1306.py"
     ],
     "blocks": [
         "definition.js"
